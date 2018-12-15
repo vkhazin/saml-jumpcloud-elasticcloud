@@ -9,7 +9,7 @@
 1. IMPORTANT: when looking for generic saml provider on jumpcloud search for `saml`
 1. Demonstrate authentication flow where when accessing elastic cloud kibana end-point browser is redirected to jumpcloud login page
 1. End-user can login using non-administrative jumpcloud directory account
-1. End-user can access kibana user interface with full permissions after successful authentication with jump-cloud account
+1. End-user can access kibana user interface with full permissions after successful authentication with jumpcloud account
 1. Document the setup using markdown format and/or setup scripts that will be tested to reproduce
 
 ## Deliverables
@@ -20,7 +20,7 @@
 ## Acceptance criteria
 
 * The documented setup instructions will be followed by a third party to create a new jump-cloud account and new elastic cloud deployment
-* At the end of a documented setup an end-user will be able to authenticate to elastic cloud kibana end-point using non-admin jump-cloud account
+* At the end of a documented setup an end-user will be able to authenticate to elastic cloud kibana end-point using non-administrative jumpcloud account
 
 ## How to submit work
 
